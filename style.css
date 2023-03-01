@@ -48,6 +48,7 @@ footer {
   display: flex;
   gap: 1rem;
   align-items: center;
+  justify-content: center;
   position: fixed;
   left: 50%;
   bottom: 1rem;
